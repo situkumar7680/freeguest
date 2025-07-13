@@ -3,15 +3,14 @@ Free Guest Posting Sites: Easy Guide
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents: 
 
 
---------------
 .. image:: https://freeguesting.ladesk.com/public/article/2/attachment/ib74b27q0w1f25fi9k1gwjtapsqxa322/view
    :alt: My Project Logo
-   :width: 200px
+   :width: 400px
    :align: center
-   :target: 
+   :target: atespostpr@gmail.com
 
 For Contact This Email
 --------------------------

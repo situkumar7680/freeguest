@@ -12,8 +12,6 @@ Free Guest Posting Sites: Easy Guide
    :align: center
    :target: atespostpr@gmail.com
 
-For Contact This Email
---------------------------
 👉 atespostpr@gmail.com
 
 

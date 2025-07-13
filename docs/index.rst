@@ -1,6 +1,5 @@
 Free Guest Posting Sites: Easy Guide
 ========================
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents: 
